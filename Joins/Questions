@@ -1,0 +1,37 @@
+Assume that we have the following tables.
+SQL> select * from dept;
+DEPTNO DNAME LOC
+10 INVENTORY HYBD
+20 FINANCE BGLR
+30 HR MUMBAI
+SQL> select * from emp;
+EMPNO ENAME JOB MGR DEPTNO
+111 saketh analyst 444 10
+222 sudha clerk 333 20
+333 jagan manager 111 10
+444 madhu engineer 222 40
+
+
+Write SQL statements to
+1. Prepare a list with salesman name, customer name and their cities for the salesmen and customer who
+belongs to the same city.
+2. Display the salesman who is not associated with any customer
+3. Make a list with order no, purchase amount, customer name and their cities for those orders which order
+amount between 700 and 2000.
+4. Know which salesman is working for which customer.
+5. Find the list of customers who appointed a salesman for their jobs who gets a commission from the
+company is more than 12%.
+6. Find the list of customers who appointed a salesman for their jobs who does not live in the same city
+where their customer lives, and gets a commission is above 12%
+7. Find the details of an order i.e. order number, order date, amount of order, which customer gives the
+order and which salesman works for that customer and how much commission he gets for an order.
+8. Make a join on the tables: salesman, customer and orders in such a form that the same column of each
+table will appear once and only the relational rows will come.
+9. Make a list in ascending order for the customer who holds a grade less than 250 and works either through
+a salesman or by own.
+10. Make a list in ascending order for the salesmen who work either for one or more customer or not yet
+join under any of the customers.
+11. Make a list for the salesmen who work either for one or more customer or not yet join under any of the
+customers who placed either one or more orders or no order to their supplier.
+12. Make a Cartesian product between salesman and customer i.e. each salesman will appear for all
+customers and vice versa.
