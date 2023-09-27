@@ -1,0 +1,26 @@
+
+SQL Introduction
+1. Create student table with the attributes SName, RegNo, Dept, Mobile, Place, M1, M2, M3
+2. Display the structure of the student table
+3. Rename the Mobile attribute as MobileNo
+4. Modify the table by removing Place attribute
+5. Insert 5 rows into student table
+6. Display the student table with all attributes
+7. Display only student names
+8. Modify the table by adding Tot, Avg and Status
+9. Update the table by calculating Tot, Avg and Status
+
+• Tot=M1+M2+M3
+• Avg=Tot/3
+• Status = “Eligible” if Avg >=50, “Not Eligible” if Avg <50
+10. Display the Regno, Sname, Tot, Avg and Grade of the students
+11. Display the students’ details where Tot > 200
+12. Display the eligible students’ details
+13. Delete a row from student table where SName=’Ram’
+14. Create faculty table with the attributes Faculty_ID, Name and Salary
+15. Insert Any 2 rows into faculty table
+16. Display the faculty table with all attributes
+17. Display faculty table where Faculty_ID=121
+18. Display all available tables in your user login
+19. Delete all the values from faculty table
+20. Drop faculty table
