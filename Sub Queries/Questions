@@ -1,0 +1,23 @@
+Consider the following database tables of an organization
+(Use existing tables)
+o department (dept_no, dept_name, location).
+o employee (emp_no , emp_name, designation, DOB, address, doj,
+mobile_no, dept_no, salary).
+Write the queries for the following
+1. Display the names of the employees working with Abi’s department
+2. Display names of employees whose salary is greater than the employee
+emp_no=1234
+3. Display all the employees drawing more than or equal to the average
+salary of department number 5.
+4. Display the name of the highest paid employee.
+5. Find the Name and Salary of people who draw in the range from Ram’s
+salary to Rs. John’s salary.
+6. Update the salary by 0.25 times for all employees who work in least paid
+employee’s department.
+7. Display the department number in which employee who has lowest
+salary.
+8. Display the employee details of all employees who earn more than that
+of ‘Reena’ and in the same department as ‘John’
+9. Display the name of the employees whose salary is less than the average
+salary of department number 3.
+10. Count the number of employees of department where “John” works
