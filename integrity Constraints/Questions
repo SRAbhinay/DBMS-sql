@@ -1,0 +1,26 @@
+Consider the database for an organization and create the following tables.
+department (dept_no, dept_name, location).
+employee (emp_no PRIMARY KEY, emp_name NOT NULL,
+DOB, address, doj, mobile_no, dept_no references
+department(dept_no), salary number(9,2), check().
+Write the queries for the following
+1. Add necessary constraints to the tables
+• (Primary key, NOT NULL, check (salary>50,000), foreign key)
+2. Modify the employee table by adding designation attribute
+3. Delete the address attribute from employee table
+4. Add 5 rows in the employee and department tables
+Validate the entries by entering
+(a) duplicate dept_no – department table
+(b) duplicate emp_no – employee table
+(c) null value for emp_name – employee table
+(d) salary 25000 – employee table
+(e) new dept_no value in employee table
+(dept_no should not be available in department table)
+5. Display all the records from employee and department tables
+6. Display the emp_no and emp_name of all the employees from department no ‘d02’
+7. Display the mobile number of ‘John’
+8. Delete the employee record whose mobile_no=9999955555
+9. Update the salary with 10% hike
+10. Display the empno and name of all employees whose salary is between 60000 and 70000
+11. Display emp_no, emp_name, designation, dept_no and salary in the descending order of salary
+12. Display emp_no, emp_name, designation, dept_no and salary in the ascending order of salary
