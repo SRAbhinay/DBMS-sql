@@ -1,0 +1,28 @@
+Create Emp Table with the following attributes
+EmpNo Primary key
+Ename Not Null
+Job
+DOB
+Salary
+Gender
+Write the queries for the following
+1. Calculate the square root of the salary of all employees.
+2. Format the salary attribute
+3. Apply any other five numeric built in function to ‘salary’ attribute of employee table
+4. Extract only the first 5 characters of the employee names.
+5. Extract second letter and third letter of the employee names.
+6. Apply any other five string built in function to ‘name’ attribute of employee table
+7. Determine the max and min salary and rename the column as max_salary and
+min_salary.
+8. Display the month name of date “14-Apr-23” in full.
+9. Display the DOB of all employees in the format “dd-mm-yy”.
+10. Display the date two months after the DOB of employees.
+11. Display the last date of the month in “05-Oct-22”.
+12. Display the rounded date in the year format, month format, day format
+13. Display the date 60 days before current date.
+14. Display the date 14 days after current date.
+15. Display the names and DOB of all employees who were born in August.
+16. List out the employee names who will celebrate their birthdays during current
+month.
+17. List all female employees who were born April
+18. Fill all null values of salary attribute to 10000
