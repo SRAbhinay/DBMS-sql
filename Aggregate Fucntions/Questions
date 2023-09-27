@@ -1,0 +1,41 @@
+Write sql code  totally in 1 snippet, dont add any comments
+
+Consider the database for an organization and create the following
+tables.
+department (dept_no, dept_name, location).
+employee (emp_no,emp_name,DOB, address, doj,
+mobile_no, dept_no, salary).
+Write the queries for the following
+1. Display all designations without duplicate values. (add designation in
+employee table and update the values – use alter, update, select with
+distinct)
+2. Display the dept_no and total salary of employees of each department.
+(use select with sum and group by)
+3. Change the salary of employees to 25000 whose designation is ‘Typist’
+(use update)
+4. Change the mobile no of employee named ‘John’ (use update)
+5. Delete the record of the employee with emp-no 121 (use delete)
+6. Delete all employees whose salaries are equal to Rs.7000 (use delete)
+7. Update the salary by 0.25 times for all employees who work in research
+department.
+8. Find the Name and Salary of people who draw in the range Rs. 50,000 to
+Rs. 90,000. (Use select with between)
+9. Find the names of employees whose address includes the substring 'ma'.
+(use select with like)
+10. Find the names of employees whose name starts with 'sp'. (use select with
+like)
+11. Find the names of employees whose name ends with 'i'. (use select with
+like)
+12. Find the employees' names that exactly contain a five-letter word. (use
+select with like)
+13. Display all employee names in alphabetical order (use select with order
+by)
+14. Display all employee names in descending order (use select with order
+by, desc)
+15. Display the dept no and average salary of employees of each department.
+(use select with avg and group by)
+16. Select the department_no that has total salary paid for its employees more
+than 25000 (use select with sum, group by and where/having)
+17. Display the total number of employees (use select with count)
+18. Display the average, maximum and minimum salary paid to employees
+(use select with avg, max and min)
