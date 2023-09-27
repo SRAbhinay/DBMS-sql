@@ -1,0 +1,32 @@
+Create below tables:
+Movie ( mID, title, release_year, director )
+Reviewer ( rID, rname )
+Rating ( rID, mID, stars, rDate )
+Description: The reviewer with rID, movie mID, a number of stars rating (1-5) and rating
+Date rDate.
+A. Exercise on Create tables from Existing Tables (Sub-tables)
+1. Create any new table from existing table (MOVIE) with all attributes
+2. Create any new table from existing table (MOVIE) with two attributes
+3. Create any new table from existing table (MOVIE) with all attributes and the
+directors name starts with ‘M’.
+B. Exercises on Views
+4. Create a View HighRating which contains movies with rating above 3 stars. The view
+contains the movie ID and movie title.
+5. Create a View NoRating which contains movies with no ratings. The view contains
+the movie ID and movie title.
+6. Create a View called LateRating which contains movie ratings after January 20, 2011.
+The view contains the movie ID, movie title, number of stars, and rating date.
+7. Display all the views generated.
+8. Execute UPDATE/DELETE commands on the view created.
+9. Drop any view.
+C. Exercises on Synonyms
+10. Create a synonym for any table
+11. Drop the synonym
+D. Exercises on Sequences
+12. Create a table to store product details (pid, pname, price)
+13. Create a sequence named seq1 start with min value 1 and max value 100
+14. Consider pid to be generated automatically while inserting the details in table. Insert
+at least 3 records and show the details of the table.
+15. Consider the same sequence and renumber the sl_no from 101. Insert at least 3
+records and show the details of the table.
+16. Drop the sequence seq1
