@@ -11,7 +11,9 @@ SQL Introduction
 5. Insert 5 rows into student table
 
 6. Display the student table with all attributes
+
 7. Display only student names
+
 8. Modify the table by adding Tot, Avg and Status
 9. Update the table by calculating Tot, Avg and Status
 
