@@ -46,6 +46,8 @@ by, desc)
 (use select with avg and group by)
 16. Select the department_no that has total salary paid for its employees more
 than 25000 (use select with sum, group by and where/having)
+
 17. Display the total number of employees (use select with count)
+
 18. Display the average, maximum and minimum salary paid to employees
 (use select with avg, max and min)
