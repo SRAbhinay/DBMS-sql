@@ -1,5 +1,5 @@
-
 SQL Introduction
+
 1. Create student table with the attributes SName, RegNo, Dept, Mobile, Place, M1, M2, M3
 2. Display the structure of the student table
 3. Rename the Mobile attribute as MobileNo
