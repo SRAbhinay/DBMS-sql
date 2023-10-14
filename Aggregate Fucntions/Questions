@@ -28,20 +28,15 @@ Write the queries for the following:
 
 10. Find the names of employees whose name starts with 'sp'. (use select with like)
 
-11. Find the names of employees whose name ends with 'i'. (use select with
-like)
+11. Find the names of employees whose name ends with 'i'. (use select with like)
 
-12. Find the employees' names that exactly contain a five-letter word. (use
-select with like)
+12. Find the employees' names that exactly contain a five-letter word. (use select with like)
 
-13. Display all employee names in alphabetical order (use select with order
-by)
+13. Display all employee names in alphabetical order (use select with order by)
 
-14. Display all employee names in descending order (use select with order
-by, desc)
+14. Display all employee names in descending order (use select with order by, desc)
 
-15. Display the dept no and average salary of employees of each department.
-(use select with avg and group by)
+15. Display the dept no and average salary of employees of each department. (use select with avg and group by)
 
 16. Select the department_no that has total salary paid for its employees more than 25000 (use select with sum, group by and where/having)
 
