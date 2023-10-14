@@ -17,7 +17,9 @@ distinct)
 
 3. Change the salary of employees to 25000 whose designation is ‘Typist’
 (use update)
+
 4. Change the mobile no of employee named ‘John’ (use update)
+
 5. Delete the record of the employee with emp-no 121 (use delete)
 6. Delete all employees whose salaries are equal to Rs.7000 (use delete)
 7. Update the salary by 0.25 times for all employees who work in research
