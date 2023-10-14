@@ -15,11 +15,12 @@ SQL Introduction
 7. Display only student names
 
 8. Modify the table by adding Tot, Avg and Status
-9. Update the table by calculating Tot, Avg and Status
 
+9. Update the table by calculating Tot, Avg and Status
 • Tot=M1+M2+M3
 • Avg=Tot/3
 • Status = “Eligible” if Avg >=50, “Not Eligible” if Avg <50
+
 10. Display the Regno, Sname, Tot, Avg and Grade of the students
 11. Display the students’ details where Tot > 200
 12. Display the eligible students’ details
