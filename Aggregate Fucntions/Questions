@@ -5,7 +5,9 @@ tables.
 department (dept_no, dept_name, location).
 employee (emp_no,emp_name,DOB, address, doj,
 mobile_no, dept_no, salary).
-Write the queries for the following
+
+Write the queries for the following:
+
 1. Display all designations without duplicate values. (add designation in
 employee table and update the values – use alter, update, select with
 distinct)
