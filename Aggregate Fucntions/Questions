@@ -8,9 +8,7 @@ mobile_no, dept_no, salary).
 
 Write the queries for the following:
 
-1. Display all designations without duplicate values. (add designation in
-employee table and update the values – use alter, update, select with
-distinct)
+1. Display all designations without duplicate values. (add designation in employee table and update the values – use alter, update, select with distinct)
 
 2. Display the dept_no and total salary of employees of each department.
 (use select with sum and group by)
