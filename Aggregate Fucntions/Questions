@@ -21,11 +21,15 @@ distinct)
 4. Change the mobile no of employee named ‘John’ (use update)
 
 5. Delete the record of the employee with emp-no 121 (use delete)
+
 6. Delete all employees whose salaries are equal to Rs.7000 (use delete)
+
 7. Update the salary by 0.25 times for all employees who work in research
 department.
+
 8. Find the Name and Salary of people who draw in the range Rs. 50,000 to
 Rs. 90,000. (Use select with between)
+
 9. Find the names of employees whose address includes the substring 'ma'.
 (use select with like)
 10. Find the names of employees whose name starts with 'sp'. (use select with
