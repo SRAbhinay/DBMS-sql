@@ -3,7 +3,9 @@ SQL Introduction
 1. Create student table with the attributes SName, RegNo, Dept, Mobile, Place, M1, M2, M3
 
 2. Display the structure of the student table
+
 3. Rename the Mobile attribute as MobileNo
+
 4. Modify the table by removing Place attribute
 5. Insert 5 rows into student table
 6. Display the student table with all attributes
