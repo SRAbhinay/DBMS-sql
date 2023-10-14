@@ -22,7 +22,9 @@ SQL Introduction
 • Status = “Eligible” if Avg >=50, “Not Eligible” if Avg <50
 
 10. Display the Regno, Sname, Tot, Avg and Grade of the students
+
 11. Display the students’ details where Tot > 200
+
 12. Display the eligible students’ details
 13. Delete a row from student table where SName=’Ram’
 14. Create faculty table with the attributes Faculty_ID, Name and Salary
