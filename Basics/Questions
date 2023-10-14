@@ -26,7 +26,9 @@ SQL Introduction
 11. Display the students’ details where Tot > 200
 
 12. Display the eligible students’ details
+
 13. Delete a row from student table where SName=’Ram’
+
 14. Create faculty table with the attributes Faculty_ID, Name and Salary
 15. Insert Any 2 rows into faculty table
 16. Display the faculty table with all attributes
