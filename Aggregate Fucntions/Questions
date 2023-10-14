@@ -41,8 +41,10 @@ like)
 
 12. Find the employees' names that exactly contain a five-letter word. (use
 select with like)
+
 13. Display all employee names in alphabetical order (use select with order
 by)
+
 14. Display all employee names in descending order (use select with order
 by, desc)
 15. Display the dept no and average salary of employees of each department.
