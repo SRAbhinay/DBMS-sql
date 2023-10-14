@@ -47,8 +47,10 @@ by)
 
 14. Display all employee names in descending order (use select with order
 by, desc)
+
 15. Display the dept no and average salary of employees of each department.
 (use select with avg and group by)
+
 16. Select the department_no that has total salary paid for its employees more
 than 25000 (use select with sum, group by and where/having)
 
